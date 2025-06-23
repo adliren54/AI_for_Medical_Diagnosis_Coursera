@@ -1,6 +1,6 @@
 # AI_for_Medical_Diagnosis_Coursera
 
-The first course from [AI for Medicine Specialization][https://www.coursera.org/specializations/ai-for-medicine] by Coursera. The course lasts for three weeks with programming assignment by the end of each weeks. This github repo contains the solution that I submitted in the course.
+The first course from [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine) by Coursera. The course lasts for three weeks with programming assignment by the end of each weeks. This github repo contains the solution that I submitted in the course.
 
 Assignment I: [Chest X-Ray Medical Diagnosis with Deep Learning][https://github.com/adliren54/AI_for_Medical_Diagnosis_Coursera/blob/main/Assignment%20I%20-%20Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb]
 
